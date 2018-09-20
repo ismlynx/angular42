@@ -6,6 +6,10 @@
 		{
 			"path": "primeiro-projeto"
 		}
+		,
+		{
+			"path": "data-binding"
+		}
 	],
 	"settings": {}
 }
